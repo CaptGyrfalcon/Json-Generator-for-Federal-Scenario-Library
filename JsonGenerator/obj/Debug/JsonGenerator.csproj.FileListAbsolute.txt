@@ -1,0 +1,6 @@
+C:\Users\CaptGyrfalcon\Documents\SharpDevelop Projects\JsonGenerator\JsonGenerator\obj\Debug\JsonGenerator.csprojResolveAssemblyReference.cache
+C:\Users\CaptGyrfalcon\Documents\SharpDevelop Projects\JsonGenerator\JsonGenerator\bin\Debug\JsonGenerator.exe.config
+C:\Users\CaptGyrfalcon\Documents\SharpDevelop Projects\JsonGenerator\JsonGenerator\bin\Debug\JsonGenerator.exe
+C:\Users\CaptGyrfalcon\Documents\SharpDevelop Projects\JsonGenerator\JsonGenerator\bin\Debug\JsonGenerator.pdb
+C:\Users\CaptGyrfalcon\Documents\SharpDevelop Projects\JsonGenerator\JsonGenerator\obj\Debug\JsonGenerator.exe
+C:\Users\CaptGyrfalcon\Documents\SharpDevelop Projects\JsonGenerator\JsonGenerator\obj\Debug\JsonGenerator.pdb
